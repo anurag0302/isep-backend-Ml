@@ -1,0 +1,11 @@
+transformers==4.35.2
+pillow
+requests
+huggingface_hub
+python-multipart
+fastapi
+uvicorn
+torch
+torchvision
+torchaudio
+python-dotenv
